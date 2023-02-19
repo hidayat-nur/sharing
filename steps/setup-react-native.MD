@@ -2,9 +2,9 @@
 1. Install the React Native CLI by running the following command in your terminal or command prompt:
 ```
 yarn global add react-native-cli
-
+```
 or
-
+```
 npm install -g react-native-cli
 ```
 > This will install the React Native command-line interface globally on your system.
